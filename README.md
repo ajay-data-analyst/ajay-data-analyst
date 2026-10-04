@@ -1,4 +1,4 @@
-Hi, I’m Ajay Kumar 👋
+Hi, I’m Ajay 👋
 
 Power BI Developer | Data Analyst | Business Intelligence
 
